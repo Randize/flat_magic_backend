@@ -33,6 +33,14 @@ You can run our backend directly by:
     cd src
     python -m flatting
 
+Windows dependencies requirements:
+Install [Visual Studio Installer ](https://visualstudio.microsoft.com/visual-cpp-build-tools/) with individual components
+    VS C++ build tool
+    C++ CMake tools for Windows
+    .NET Framework SDK
+    .NET Framework targeting pack
+    C++/CLI support
+    Windows SDK
 
 
 ### 4. Package
