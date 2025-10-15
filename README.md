@@ -40,7 +40,7 @@ Install [Visual Studio Installer ](https://visualstudio.microsoft.com/visual-cpp
     .NET Framework SDK
     .NET Framework targeting pack
     C++/CLI support
-    Windows SDK
+    Windows
 
 
 ### 4. Package
