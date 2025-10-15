@@ -92,3 +92,6 @@ If briefcase doesn't work, you can use [pyinstaller](https://www.pyinstaller.org
 ### 5. Install Photoshop plugin
 Download the [flatting plugin](https://drive.google.com/file/d/1HivdqU2Z2dIL2MvqzEYmCLO2_nDL2Cnk/view?usp=sharing) and unzip it to any place. 
 Download the backend server by following the instructions inside the "flatting plugin.zip"
+
+For manual installation, rename the .ccx file extension to .zip and then extract the zip content into the Photoshop installation folder (e.g., C:\Program Files\Adobe\Adobe Photoshop <version>\Plug-ins) Restart Photoshop; the new plugin will be in the Plugins menu.
+
